@@ -1,7 +1,6 @@
 # DNN_CV_complete_guide
-* 모두의 연구소(모두연) 풀잎스쿨 19기 `딥러닝 컴퓨터비전 완벽가이드`에서 다루는 object detection과 segmentation 실습
-* 권철민 강사님의 '딥러닝 컴퓨터비전 완벽가이드' 강좌를 바탕으로 실습한 코드를 업로드하는 repository
-* 본 repository는 권철민 강사님 github [DLCV_New](https://github.com/chulminkw/DLCV_New)의 코드를 리뷰하고 재구성 하였음
+* **모두의 연구소(모두연) 풀잎스쿨 19기 `딥러닝 컴퓨터비전 완벽가이드`** 에서 다루는 **object detection과 segmentation** 실습
+* 권철민 강사님의 '딥러닝 컴퓨터비전 완벽가이드' 강좌와 github 'DLCV_New'의 코드를 리뷰하고 재구성 하였음
 
 ## 모두연 풀잎스쿨 19기 - 딥러닝 컴퓨터비전 완벽 가이드 소개
 * Object Detection과 Segmentation에 대한 깊이있는 이론 설명과 현업에서 바로 사용될 수 있는 많은 실습 예제들을 사전 학습한 후 스터디
@@ -20,5 +19,6 @@
 * st10 : Mask RCNN 실습(Pascal VOC, Balloon), Kaggle Nucleus Segmentation
 
 ## 링크
-[모두연19기-딥컵완소개페이지](https://modulabs.co.kr/product/flip18th-7042-2022-03-23-100228/)
-[권철민강사님 딥컴완 github](https://github.com/chulminkw/DLCV_New)
+* [모두연19기-딥컵완소개페이지](https://modulabs.co.kr/product/flip18th-7042-2022-03-23-100228/)
+* [inflearn-딥컴완강좌](https://www.inflearn.com/course/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
+* [권철민강사님 딥컴완 github](https://github.com/chulminkw/DLCV_New)
