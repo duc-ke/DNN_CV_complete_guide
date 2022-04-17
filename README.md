@@ -11,6 +11,7 @@
   
 ## repository 구성(스터디 스케쥴)
 * st01 : Object Detection & Segmentation의 이해
+  * Selective search와 IoU 계산 및 bnd box 그리기 실습
 * st02 : RCNN 계열 Object Detecter
 * st03 : tiny kitty 데이터로 MMDetection Train 실습
 * st04 : Oxford Pet 데이터로 Train 실습
