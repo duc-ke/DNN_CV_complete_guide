@@ -11,11 +11,21 @@
   
 ## repository 구성(스터디 스케쥴)
 * st01 : Object Detection & Segmentation의 이해
+  * 이론(추후 정리 link 업로드 예정)
+    * obj detection, segmentation 개요
+    * region proposal, metrics(mAP, IOU), NMS이해
+    * 데이터셋트 - Pascal VOC, MS-COCO
   * Selective search와 IoU 계산 및 bnd box 그리기 실습
   * Pascal VOC dataset 로딩 및 bnd box 그리기 실습
 * st02 : RCNN 계열 Object Detecter
+  * 이론(추후 link 업로드 예정)
+    * RCNN(2013) 이해
+    * Fast-RCNN(2015) 이해
+    * Faster-RCNN(2015) 이해
   * OpenCV DNN을 이용한 Faster-RCNN object detection 실습(이미지, Video)
 * st03 : tiny kitty 데이터로 MMDetection Train 실습
+  * 이론(추후 link 업로드 예정)
+    * MMDetection 프레임 워크 이해 - Dataset, config 구조
   * MMDetection 프레임워크 - pretrained model을 이용한 FasterRCNN inference 실습(이미지, Video)
   * MMDetection 프레임워크 - Kitti 데이터셋을 이용, 학습부터 inference까지(이미지, Video)
 * st04 : Oxford Pet 데이터로 Train 실습
