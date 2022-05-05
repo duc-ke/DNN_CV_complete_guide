@@ -16,6 +16,8 @@
 * st02 : RCNN 계열 Object Detecter
   * OpenCV DNN을 이용한 Faster-RCNN object detection 실습(이미지, Video)
 * st03 : tiny kitty 데이터로 MMDetection Train 실습
+  * MMDetection 프레임워크 - pretrained model을 이용한 FasterRCNN inference 실습(이미지, Video)
+  * MMDetection 프레임워크 - Kitti 데이터셋을 이용, 학습부터 inference까지(이미지, Video)
 * st04 : Oxford Pet 데이터로 Train 실습
 * st05 : SSD, YOLO
 * st06 : Ultralytics Yolo 실습
