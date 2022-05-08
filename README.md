@@ -23,6 +23,7 @@
     * Fast-RCNN(2015) 이해
     * Faster-RCNN(2015) 이해
   * OpenCV DNN을 이용한 Faster-RCNN object detection 실습(이미지, Video)
+  * RCNN pytorch 구현하기 : [RCNN_torch github](https://github.com/duc-ke/RCNN_torch)
 * st03 : tiny kitty 데이터로 MMDetection Train 실습
   * 이론(추후 link 업로드 예정)
     * MMDetection 프레임 워크 이해 - Dataset, config 구조
