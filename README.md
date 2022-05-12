@@ -29,7 +29,11 @@
     * MMDetection 프레임 워크 이해 - Dataset, config 구조
   * MMDetection 프레임워크 - pretrained model을 이용한 FasterRCNN inference 실습(이미지, Video)
   * MMDetection 프레임워크 - Kitti 데이터셋을 이용, 학습부터 inference까지(이미지, Video)
-* st04 : Oxford Pet 데이터로 Train 실습
+* st04 : Oxford Pet 데이터로 MMDetectionTrain 실습
+  * 이론(추후 link 업로드 예정)
+    * MMDetection 프레임 워크 이해 - config 전체 구성, Data Pipeline
+  * MMDetection 프레임워크 - Oxford Pet 데이터셋을 이용, Meta file 생성, CustomDataset생성, 학습부터 inference까지(이미지)
+  * MMDetection 프레임워크 - BCCD 데이터셋을 이용, COCO형태 변환, CocoDataset생성, 학습부터 inference, test-set evaluation까지(이미지)
 * st05 : SSD, YOLO
 * st06 : Ultralytics Yolo 실습
 * st07 : RetinaNet, EfficientDet
