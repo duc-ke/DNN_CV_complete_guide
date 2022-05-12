@@ -15,25 +15,29 @@
     * obj detection, segmentation 개요
     * region proposal, metrics(mAP, IOU), NMS이해
     * 데이터셋트 - Pascal VOC, MS-COCO
-  * Selective search와 IoU 계산 및 bnd box 그리기 실습
-  * Pascal VOC dataset 로딩 및 bnd box 그리기 실습
+  * 실습
+    * Selective search와 IoU 계산 및 bnd box 그리기 실습
+    * Pascal VOC dataset 로딩 및 bnd box 그리기 실습
 * **st02 : RCNN 계열 Object Detecter**
   * 이론(추후 link 업로드 예정)
     * RCNN(2013) 이해
     * Fast-RCNN(2015) 이해
     * Faster-RCNN(2015) 이해
-  * OpenCV DNN을 이용한 Faster-RCNN object detection 실습(이미지, Video)
-  * (개인프로젝트)RCNN pytorch 구현하기 : [RCNN_torch github](https://github.com/duc-ke/RCNN_torch)
+  * 실습
+    * OpenCV DNN을 이용한 Faster-RCNN object detection 실습(이미지, Video)
+    * (개인프로젝트)RCNN pytorch 구현하기 : [RCNN_torch github](https://github.com/duc-ke/RCNN_torch)
 * **st03 : tiny kitty 데이터로 MMDetection Train 실습**
   * 이론(추후 link 업로드 예정)
     * MMDetection 프레임 워크 이해 - Dataset, config 구조
-  * MMDetection 프레임워크 - pretrained model을 이용한 FasterRCNN inference 실습(이미지, Video)
-  * MMDetection 프레임워크 - Kitti 데이터셋을 이용, 학습부터 inference까지(이미지, Video)
+  * 실습
+    * MMDetection 프레임워크 - pretrained model을 이용한 FasterRCNN inference 실습(이미지, Video)
+    * MMDetection 프레임워크 - Kitti 데이터셋을 이용, 학습부터 inference까지(이미지, Video)
 * **st04 : Oxford Pet 데이터로 MMDetectionTrain 실습**
   * 이론(추후 link 업로드 예정)
     * MMDetection 프레임 워크 이해 - config 전체 구성, Data Pipeline
-  * MMDetection 프레임워크 - Oxford Pet 데이터셋을 이용, Meta file 생성, CustomDataset생성, 학습부터 inference까지(이미지)
-  * MMDetection 프레임워크 - BCCD 데이터셋을 이용, COCO형태 변환, CocoDataset생성, 학습부터 inference, test-set evaluation까지(이미지)
+  * 실습
+    * MMDetection 프레임워크 - Oxford Pet 데이터셋을 이용, Meta file 생성, CustomDataset생성, 학습부터 inference까지(이미지)
+    * MMDetection 프레임워크 - BCCD 데이터셋을 이용, COCO형태 변환, CocoDataset생성, 학습부터 inference, test-set evaluation까지(이미지)
 * st05 : SSD, YOLO
 * st06 : Ultralytics Yolo 실습
 * st07 : RetinaNet, EfficientDet
