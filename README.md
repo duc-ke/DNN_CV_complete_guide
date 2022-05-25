@@ -39,7 +39,13 @@
     * MMDetection 프레임워크 - Oxford Pet 데이터셋을 이용, Meta file 생성, CustomDataset생성, 학습부터 inference까지(이미지)
     * MMDetection 프레임워크 - BCCD 데이터셋을 이용, COCO형태 변환, CocoDataset생성, 학습부터 inference, test-set evaluation까지(이미지)
 * st05 : SSD, YOLO
+  * 이론(추후 link 업로드 예정)
+    * SSD, YOLO v1, v2, v3 리뷰
+  * 실습
+    * -
 * st06 : Ultralytics Yolo 실습
+  * 실습
+    * Ultralytics yolo v3 실습
 * st07 : RetinaNet, EfficientDet
 * st08 : AutoML EfficientDet 실습, Mask RCNN
 * st09 : Mask RCNN 실습(OpenCV DNN, MM Detection)
